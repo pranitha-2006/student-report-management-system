@@ -1,0 +1,3 @@
+Student Information: ID: 101, Name: Mahesh, Branch: CSE, Phone:
+1112223333, CGPA: 9.2 ID: 102, Name: Suresh, Branch: ECE, PhoD: 103, Name: Ramesh, Branch: MECH, Phone:
+7778889999, CGPA: 8.5

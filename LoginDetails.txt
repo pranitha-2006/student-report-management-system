@@ -1,0 +1,2 @@
+Login Details: Admin PIN: 1234 Staff PIN: 5678 Student Login: Use
+Student ID and Phone Number as password.
